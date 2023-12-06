@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NextTryHelloButton</string>
+    <string name="Hello">Ni Hao</string>
+    <string name="MakeHello"> Hello, World!</string>
+</resources>
